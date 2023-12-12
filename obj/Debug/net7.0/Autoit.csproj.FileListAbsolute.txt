@@ -19,3 +19,4 @@ C:\Users\PC_4232\Desktop\Autoit\Autoit\obj\Debug\net7.0\Autoit.pdb
 C:\Users\PC_4232\Desktop\Autoit\Autoit\obj\Debug\net7.0\Autoit.genruntimeconfig.cache
 C:\Users\PC_4232\Desktop\Autoit\Autoit\obj\Debug\net7.0\ref\Autoit.dll
 C:\Users\PC_4232\Desktop\Autoit\Autoit\bin\Debug\net7.0\AutoItX3.PowerShell.dll
+C:\Users\PC_4232\Desktop\Autoit\Autoit\obj\Debug\net7.0\Autoit.sourcelink.json

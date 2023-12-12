@@ -15,9 +15,13 @@ namespace AutoItLoginExample
         {
 
             AutoItX.Sleep(1000);
+
             int result = AutoItX.Run("C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe", "", AutoItX.SW_MAXIMIZE);
             
 
+            AutoItX.Sleep(1000);
+            AutoItX.Sleep(1000);
+            AutoItX.Sleep(1000);
             AutoItX.Sleep(1000);
             AutoItX.WinSetState(AutoItX.WinGetTitle().ToString(), "", AutoItX.SW_MAXIMIZE);
 
