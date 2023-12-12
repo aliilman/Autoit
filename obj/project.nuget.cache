@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p14hDUGY7VShKQFs34pkyspQW447DXkVufdRLy7tMSraQRyo+F162tbeACcASZ0UenSfZQc6VLMKDUNnFq31ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC_4232\\Desktop\\Autoit\\Autoit\\Autoit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC_4232\\.nuget\\packages\\autoitx.dotnet\\3.3.14.5\\autoitx.dotnet.3.3.14.5.nupkg.sha512"
+  ],
+  "logs": []
+}
